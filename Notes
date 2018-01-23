@@ -1,0 +1,8 @@
+Install node.js
+Install browser-sync
+Install git
+
+Lecture 1
+
+browser-sync start --server --directory --files "*"
+To start browser-sync
