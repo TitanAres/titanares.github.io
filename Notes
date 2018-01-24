@@ -1,16 +1,38 @@
 Install node.js
 Install browser-sync
 Install git
+Setup page on github
 
+*************************
 Lecture 1
 
 browser-sync start --server --directory --files "*"
 To start browser-sync
 
+*************************
 Lecture 2
 
 browser statistics
 w3c
 caniuse website
 w3c validation
+
+**************************
+Lecture 3
+
+Tradition:
+Block-Level Element
+-Render to begin on a new line
+-can contain block or inline elements
+
+Inline Element
+-Render on the same line
+-can only contain inline elements
+
+For html5:
+Block-level: div
+
+Inline: span
+
+
 
