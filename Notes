@@ -34,5 +34,56 @@ Block-level: div
 
 Inline: span
 
+***************************
+Lecture 4  Heading
+
+<h1> to <h6>
+
+<header> <section> <article> <aside> <footer>  - all block level elements
+
+<ul><li></li></ul> unordered list
+
+<ol><li></li></ol> ordered list
+
+**************************
+Lecture 5 browser rendering
+
+instead of 
+
+<        >        &  
+
+Use
+
+&lt;    &gt;      &amp;
+
+copyright    &copy;
+
+none-breaking space    &nbsp;  don't use it for extra blank spaces
+
+""   &quots;
+
+May check page by changing the encode theme.
+
+******************************
+Lecture 6 Links
+
+Internal links  <a href="internal-links.html" title="same dir">context</a>
+
+attribute: target = "_blank"
+
+href="#section1" /// id = "section1" or <a name = "section1">
+
+******************************
+Lecture 7 Images
+
+<img src="URL" width="400" height="400" alt="context">
+
+Always remember to set width and heights, otherwise it will break the layout, Alt context will show up if the image cannot to displayed
+
+
+
+
+
+
 
 
